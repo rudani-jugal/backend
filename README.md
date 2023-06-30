@@ -1,1 +1,3 @@
-cd to project directory and then node src
+cd to project directory
+1. npm install
+2. run node src
